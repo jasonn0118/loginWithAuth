@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login_Authentication</string>
+    <string name="txtMainTitle">Sn34ker</string>
+    <string name="txtCreatAccount">Create New Account</string>
+    <string name="edFullName">Full Name</string>
+    <string name="edEmail">Email</string>
+    <string name="edPassword">Password</string>
+    <string name="btnRegi">Register</string>
+    <string name="txtLoginQuestion">Already Registered? Login Here</string>
+    <string name="edPhone">Phone</string>
+    <string name="txtCreateAcc">New Here? Create Account</string>
+    <string name="btnLogin">Login</string>
+</resources>
